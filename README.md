@@ -2,7 +2,7 @@
 
 A lightweight Java automation tool that organizes messy directories (like your Downloads folder) into categorized subfolders based on file extensions.
 
-![Java](https://img.shields.io/badge/Java-23-orange?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 ![Platform](https://img.shields.io/badge/Platform-Cross__Platform-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -36,8 +36,7 @@ A lightweight Java automation tool that organizes messy directories (like your D
 ## 🚀 How to Run
 
 ### Option 1: Double Click
-If Java Runtime Environment (JRE) is associated with your system GUI:
-1. Download the `Downloads.Cleaner.jar`.
+1. Download the `Cleaner.exe`.
 2. Double-click the file.
 3. Select your target directory inside the popup interface and confirm.
 
