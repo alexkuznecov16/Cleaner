@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Downloads Cleaner:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Downloads_Cleaner_jar</output-path>
-    <root id="archive" name="Downloads Cleaner.jar">
-      <element id="module-output" name="Downloads Cleaner" />
-    </root>
-  </artifact>
-</component>

@@ -29,7 +29,7 @@ A lightweight Java automation tool that organizes messy directories (like your D
 
 ### Latest Release
 
-👉 [Download DownloadsCleaner.jar](https://github.com/alexkuznecov16/Cleaner/releases/download/v1.0/Downloads.Cleaner.jar)
+👉 [Download Cleaner.exe](https://github.com/alexkuznecov16/Cleaner/releases/download/v1.0/Cleaner.exe)
 
 ---
 
